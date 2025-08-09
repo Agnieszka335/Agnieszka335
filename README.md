@@ -1,16 +1,25 @@
-## Hi there 👋
+## 📌 About me 
 
-<!--
-**Agnieszka335/Agnieszka335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Agnieszka 👋 An aspiring junior frontend developer. 
 
-Here are some ideas to get you started:
+💻 Passionate about creating clean, responsive and user-friendly interfaces. 
+↗️ My frontend journey started with HTML, CSS and RWD. Currently, I'm focused on writing clean, maintainable code and improving my skills in advanced JavaScript while mastering React library. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 My Tech Stack 
+
+- ✒️ **HTML5**, **CSS3** (including RWD and Flexbox)  
+- 🎨 **SCSS/SASS**  
+- 🌾 **JavaScript (ES6)**  
+- 🌐 **React** (currently learning)  
+- 📊 **Git**  
+- ⚡ **Vite**  
+
+---
+
+## 🌈 My goals 
+- 📚 Improve my skills in **React** and **advanced JavaScript concepts**  
+- 🎨 Explore modern styling tools like **Tailwind CSS** and **Bootstrap**
+- ✔️ Build more advanced, real-world projects to strengthen my portfolio
+- 🚀 Land my first role as a **Junior Frontend Developer**
