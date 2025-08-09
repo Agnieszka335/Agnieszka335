@@ -19,3 +19,6 @@ Hi! I'm Agnieszka 👋 An aspiring junior frontend developer.
 - 🎨 Explore modern styling tools like **Tailwind CSS** and **Bootstrap**
 - ✔️ Build more advanced, real-world projects to strengthen my portfolio
 - 🚀 Land my first role as a **Junior Frontend Developer**
+
+## 📜 My certificates
+- **JavaScript Developer** - Coders Lab (2025) 
