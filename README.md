@@ -11,7 +11,7 @@ Hi! I'm Agnieszka 👋 An aspiring junior frontend developer.
 - 🎨 **SCSS/SASS**  
 - 🌾 **JavaScript (ES6)**  
 - 🌐 **React** (currently learning)  
-- 📊 **Git**  
+- 🌳 **Git**  
 - ⚡ **Vite**  
 
 ## 🌈 My goals 
