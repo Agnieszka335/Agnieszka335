@@ -1,6 +1,6 @@
 ## 📌 About me 
 
-Hi! I'm Agnieszka 👋 An aspiring junior frontend developer. 
+Hi! I'm Agnieszka 👋 An aspiring **Junior Frontend Developer**. 
 
 💻 Passionate about creating clean, responsive and user-friendly interfaces. 
 ↗️ My frontend journey started with HTML, CSS and RWD. Currently, I'm focused on writing clean, maintainable code and improving my skills in advanced JavaScript while mastering React library. 
