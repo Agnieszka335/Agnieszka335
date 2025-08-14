@@ -25,7 +25,8 @@ Hi! I'm Agnieszka 👋 An aspiring **Junior Frontend Developer**.
 
 ## 🎓 My latest project 
 **AstroState** - A React application for fetching and displaying daily horoscopes, zodiac compatibility and sign descriptions
-[Live demo](https://astro-state-app.netlify.app/) 
-[Source Code](https://github.com/Agnieszka335/AstroState--react-project)
+
+- [Live demo](https://astro-state-app.netlify.app/) 
+- [Source Code](https://github.com/Agnieszka335/AstroState--react-project)
 
 
