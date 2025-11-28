@@ -7,10 +7,10 @@ Hi! I'm Agnieszka 👋 An aspiring **Junior Frontend Developer**.
 
 ## 🛠 Tech Stack 
 
-- ✒️ **HTML5**, **CSS3** (including RWD and Flexbox)  
+- ✒️ **HTML5**, **CSS3** (including Responsive Web Design and Flexbox)  
 - 🎨 **SCSS/SASS**  
 - 🌾 **JavaScript (ES6)**  
-- 🌐 **React** (currently learning)  
+- 🌐 **React**
 - 🌳 **Git**  
 - ⚡ **Vite**  
 
