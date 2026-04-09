@@ -22,6 +22,7 @@ Hi! I'm Agnieszka 👋 An aspiring **Junior Frontend Developer**.
 
 ## 📜 My certificates
 - **JavaScript Developer** - Coders Lab (2025)
+- **Front-End Fundamentals Program** - Epam Systems Poland (2026)
 
 ## 🎓 My latest project 
 **AstroState** - A React application for fetching and displaying daily horoscopes, zodiac compatibility and sign descriptions
