@@ -35,4 +35,8 @@ Hi! I'm Agnieszka 👋 An aspiring **Junior Frontend Developer**.
 - [Live demo](https://astro-state-app.netlify.app/) 
 - [Source Code](https://github.com/Agnieszka335/AstroState--react-project)
 
+## 🤝 Let's Connect
+I'm open to collaboration, internships, and junior opportunities.
 
+📧 Email: agnieszka.sobczyk335@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/agnieszka-sobczyk-355578389/]
